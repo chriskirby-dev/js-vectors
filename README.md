@@ -8,7 +8,7 @@ const vector = new Vector2D(x,y);
 or 
 
 ```javascript
-const vector = new Vector(<vector>);
+const vector = new Vector2D(<vector>);
 ```
 
 or 
